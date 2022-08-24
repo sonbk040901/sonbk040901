@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [RHUST]
+- 💬 Ask me about every thing
+- 📫 How to reach me: [Facebook]
+- ⚡ Fun fact: I share... a lot!
 
-**sonbk040901/sonbk040901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**sonbk040901/sonbk040901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...-->
+ [RHUST] : https://www.hust.edu.vn/
+ [Facebook] : https://fb.me/bk04092001
