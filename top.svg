@@ -23,9 +23,8 @@
                 margin: 40px 0;
                 color: #03e9f4;
                 text-decoration: none;
-                text-transform: uppercase;
                 transition: 0.5s;
-                letter-spacing: 4px;
+                letter-spacing: 1px;
                 overflow: hidden;
                 margin-right: 50px;
 
@@ -53,7 +52,7 @@
                 top: 0;
                 left: 0;
                 width: 100%;
-                height: 2px;
+                height: 4px;
                 background: linear-gradient(90deg,transparent,#03e9f4);
                 animation: animate1 1s linear infinite;
                 }
@@ -68,7 +67,7 @@
                 a span:nth-child(2){
                 top: -100%;
                 right: 0;
-                width: 2px;
+                width: 4px;
                 height: 100%;
                 background: linear-gradient(180deg,transparent,#03e9f4);
                 animation: animate2 1s linear infinite;
@@ -86,7 +85,7 @@
                 bottom: 0;
                 right: 0;
                 width: 100%;
-                height: 2px;
+                height: 4px;
                 background: linear-gradient(270deg,transparent,#03e9f4);
                 animation: animate3 1s linear infinite;
                 animation-delay: 0.50s;
@@ -104,7 +103,7 @@
                 a span:nth-child(4){
                 bottom: -100%;
                 left: 0;
-                width: 2px;
+                width: 4px;
                 height: 100%;
                 background: linear-gradient(360deg,transparent,#03e9f4);
                 animation: animate4 1s linear infinite;
@@ -117,13 +116,29 @@
                 50%,100%{
                 bottom: 100%;
                 }
-                }</style>
+                }
+
+                @keyframes typing {
+                from { width: 0 }
+                to { width: 100% }
+                }
+                .hello{
+                overflow: hidden;
+                font-weight: bold;
+                font-size: 36px;
+                line-height: 1.3;
+                letter-spacing: 0;
+                animation:  typing 5s forwards;
+                white-space: nowrap;
+                }
+            </style>
             <a href="#">
                 <span></span>
                 <span></span>
                 <span></span>
                 <span></span>
-                Lê Đức Sơn
+                <div class="hello">Hi there 👋<br/>
+                    I'm Le Duc Son from </div>
             </a>
         </div>
     </foreignObject>
