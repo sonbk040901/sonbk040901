@@ -1,6 +1,6 @@
 <img src="sonle040901.svg">
 
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 - 🌱 I’m currently learning [SOICT-RHUST]
 - 📫 How to reach me: [Facebook]
 
