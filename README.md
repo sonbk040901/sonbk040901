@@ -6,18 +6,9 @@
 ---
 
 ### Tool:
-
-<style>
-.tool_icon {
-    margin: 0 5px;
-    height: 32px;
-    width: 32px;
-}
-</style>
-<br>
-<a href="./icons/VSCode-Dark.svg"><img class="tool_icon" src="./icons/VSCode-Dark.svg"  alt="VisualStudioCode"/></a>
-<a href="./icons/Idea-Dark.svg"><img class="tool_icon" src="./icons/Idea-Dark.svg" alt="Intelliji"/></a>
-<a href="./icons/Docker.svg"><img class="tool_icon" src="./icons/Docker.svg" alt="Docker"/></a>
+<a href="./icons/VSCode-Dark.svg"><img style="margin: 0 5px; height: 32px; width: 32px;" src="./icons/VSCode-Dark.svg"  alt="VisualStudioCode"/></a>
+<a href="./icons/Idea-Dark.svg"><img style="margin: 0 5px; height: 32px; width: 32px;" src="./icons/Idea-Dark.svg" alt="Intelliji"/></a>
+<a href="./icons/Docker.svg"><img style="margin: 0 5px; height: 32px; width: 32px;" src="./icons/Docker.svg" alt="Docker"/></a>
 <br>
 
 ---
