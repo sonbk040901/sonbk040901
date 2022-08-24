@@ -1,4 +1,4 @@
-<img src="sonle040901.svg">
+<img height="750" src="sonle040901.svg">
 
 - 🌱 I’m currently learning [SOICT-RHUST]
 - 📫 How to reach me: [Facebook]
