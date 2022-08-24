@@ -1,5 +1,4 @@
-### <p style="color: rgb(38, 223, 184);">Hi there 👋</p>
-
+### Hi there 👋
 - 🌱 I’m currently learning [SOICT-RHUST]
 - 📫 How to reach me: [Facebook]
 
