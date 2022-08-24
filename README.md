@@ -4,7 +4,7 @@
 - 📫 How to reach me: [Facebook]
 ---
 ### Tool
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudiocode.svg" /><br>
+<img align='left' height="32" width="32" src="./icons/VisualStudio-Dark.svg" /><br>
 ---
 <!--**sonbk040901/sonbk040901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
