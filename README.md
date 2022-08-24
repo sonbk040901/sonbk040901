@@ -1,10 +1,25 @@
-### Hi there 👋
+### <p style="color: rgb(38, 223, 184);">Hi there 👋</p>
 
 - 🌱 I’m currently learning [SOICT-RHUST]
 - 📫 How to reach me: [Facebook]
+
 ---
-### Tool
-<img align='left' height="32" width="32" src="./icons/VisualStudio-Dark.svg" /><br>
+
+### Tool:
+
+<style>
+.tool_icon {
+    margin: 0 5px;
+    height: 32px;
+    width: 32px;
+}
+</style>
+<br>
+<a href="./icons/VSCode-Dark.svg"><img class="tool_icon" src="./icons/VSCode-Dark.svg"  alt="VisualStudioCode"/></a>
+<a href="./icons/Idea-Dark.svg"><img class="tool_icon" src="./icons/Idea-Dark.svg" alt="Intelliji"/></a>
+<a href="./icons/Docker.svg"><img class="tool_icon" src="./icons/Docker.svg" alt="Docker"/></a>
+<br>
+
 ---
 <!--**sonbk040901/sonbk040901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,5 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
- [SOICT-RHUST]: https://soict.hust.edu.vn/
- [Facebook]: https://fb.me/bk04092001
+
+[SOICT-RHUST]: https://soict.hust.edu.vn/
+
+[Facebook]: https://fb.me/bk04092001
