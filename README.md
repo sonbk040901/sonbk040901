@@ -1,21 +1,19 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [RHUST]
-- 💬 Ask me about every thing
+- 🌱 I’m currently learning [SOICT-RHUST]
 - 📫 How to reach me: [Facebook]
-- ⚡ Fun fact: I share... a lot!
-
+---
+### Tool
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudiocode.svg" /><br>
+---
 <!--**sonbk040901/sonbk040901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
- [RHUST] : https://www.hust.edu.vn/
- [Facebook] : https://fb.me/bk04092001
+ [SOICT-RHUST]: https://soict.hust.edu.vn/
+ [Facebook]: https://fb.me/bk04092001
