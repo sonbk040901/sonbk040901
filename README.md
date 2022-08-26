@@ -1,5 +1,5 @@
 
-<a align="left><img src="sonle040901.svg"></a>
+<a><img src="sonle040901.svg"></a>
 
 - 🌱 I’m currently learning [SOICT-RHUST]
 - 📫 How to reach me: [Facebook]
