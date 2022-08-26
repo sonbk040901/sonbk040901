@@ -26,7 +26,7 @@
 ### How to reach me:
 <div align="center">
   <a href="https://fb.me/bk04092001" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="sonbk040901-facebook" />
+    <img height="64" width="64" src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif" alt="sonbk040901-facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCL8HXTHfAvq7q08xMXBiKRA" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="sonbk040901-youtube" />
