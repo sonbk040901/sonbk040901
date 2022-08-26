@@ -7,9 +7,9 @@
 ---
 
 ### Tool:
-<a href="./icons/VSCode-Dark.svg"><img style="margin: 0 5px; height: 32px; width: 32px;" src="./icons/VSCode-Dark.svg"  alt="VisualStudioCode"/></a>
-<a href="./icons/Idea-Dark.svg"><img style="margin: 0 5px; height: 32px; width: 32px;" src="./icons/Idea-Dark.svg" alt="Intelliji"/></a>
-<a href="https:facebook.com"><img style="margin: 0 5px; height: 32px; width: 32px;" src="./icons/Docker.svg" alt="Docker"/></a>
+<a href="./icons/VSCode-Dark.svg" width= "40"><img style="height: 32px; width: 32px;" src="./icons/VSCode-Dark.svg"  alt="VisualStudioCode"/></a>
+<a href="./icons/Idea-Dark.svg" width= "40"><img style=" height: 32px; width: 32px;" src="./icons/Idea-Dark.svg" alt="Intelliji"/></a>
+<a href="https:facebook.com" width= "40"><img style="height: 32px; width: 32px;" src="./icons/Docker.svg" alt="Docker"/></a>
 <br>
 ---
 <!--**sonbk040901/sonbk040901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
