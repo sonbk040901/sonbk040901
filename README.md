@@ -6,12 +6,12 @@
 
 ---
 
-### Tool:
-<a href="./icons/VSCode-Dark.svg" width= "40"><img style="height: 32px; width: 32px;" src="./icons/VSCode-Dark.svg"  alt="VisualStudioCode"/></a>
-<a href="./icons/Idea-Dark.svg" width= "40"><img style=" height: 32px; width: 32px;" src="./icons/Idea-Dark.svg" alt="Intelliji"/></a>
-<a href="https:facebook.com" width= "40"><img style="height: 32px; width: 32px;" src="./icons/Docker.svg" alt="Docker"/></a>
-<br>
----
+### Tools:
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,eclipse,docker)](https://skillicons.dev)
+### Language:
+[![Language](https://skillicons.dev/icons?i=js,html,css,java,c,mysql)](https://skillicons.dev)
+### Other:
+[![Other](https://skillicons.dev/icons?i=linux,codepen,git,github,heroku,emacs,latex,regex,svg)](https://skillicons.dev)
 <!--**sonbk040901/sonbk040901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
