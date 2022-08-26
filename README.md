@@ -26,16 +26,16 @@
 ### How to reach me:
 <div align="center">
   <a href="https://fb.me/bk04092001" target="blank">
-    <img height="64" width="64" src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif" alt="sonbk040901-facebook" />
+    <img height="64" width="64" src="https://media.giphy.com/media/xpUtJjsEFZk7EcwPLs/giphy.gif" alt="sonbk040901-facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCL8HXTHfAvq7q08xMXBiKRA" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="sonbk040901-youtube" />
+    <img height="64" width="64" src="https://media.giphy.com/media/fVtghR89I5E9ZAHSsZ/giphy.gif" alt="sonbk040901-youtube" />
   </a>
   <a href="https://instagram.com/son_le.4901" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="sonbk040901-instagram" />
+    <img height="64" width="64" src="https://media.giphy.com/media/jqVUX17Ze8mw0nXBbJ/giphy.gif" alt="sonbk040901-instagram" />
   </a>
   <a href="mailto:leducson007@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="sonbk040901-email" />
+    <img height="64" width="64" src="https://media.giphy.com/media/QuI2G48pcj20qNHE3f/giphy.gif" alt="sonbk040901-email" />
   </a>
 </div>
 <!--**sonbk040901/sonbk040901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
