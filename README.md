@@ -1,9 +1,5 @@
 
 <a><img src="sonle040901.svg"></a>
-
-- 🌱 I’m currently learning [SOICT-RHUST]
-- 📫 How to reach me: [Facebook]
-
 ---
 
 ### Tools:
@@ -14,7 +10,7 @@
 [![Other](https://skillicons.dev/icons?i=linux,codepen,git,github,heroku,emacs,latex,regex,svg)](https://skillicons.dev)
 
 ---
-### GitHub Stats 🔥
+### GitHub Stats:
 
 <div align=center>
   <a href="#" title="sonbk040901">
@@ -22,6 +18,24 @@
   </a>
   <a href="#" title="sonbk040901">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=sonbk040901&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+<br>
+
+---
+### How to reach me:
+<div align="center">
+  <a href="https://fb.me/bk04092001" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="sonbk040901-facebook" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCL8HXTHfAvq7q08xMXBiKRA" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="sonbk040901-youtube" />
+  </a>
+  <a href="https://instagram.com/son_le.4901" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="sonbk040901-instagram" />
+  </a>
+  <a href="mailto:leducson007@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="sonbk040901-email" />
   </a>
 </div>
 <!--**sonbk040901/sonbk040901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
