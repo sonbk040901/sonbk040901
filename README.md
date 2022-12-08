@@ -5,7 +5,7 @@
 ### Tools:
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,eclipse,docker)](https://skillicons.dev)
 ### Language:
-[![Language](https://skillicons.dev/icons?i=js,html,css,java,c,mysql)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=js,html,css,java,nodejs,php,c,mysql)](https://skillicons.dev)
 ### Other:
 [![Other](https://skillicons.dev/icons?i=linux,codepen,git,github,heroku,emacs,latex,regex,svg)](https://skillicons.dev)
 
