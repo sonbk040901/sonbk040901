@@ -3,11 +3,11 @@
 ---
 
 ### Tools:
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,eclipse,docker)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,eclipse,docker)]([https://skillicons.dev](https://skillicons.dev/icons?i=vscode,idea,eclipse,docker))
 ### Language:
-[![Language](https://skillicons.dev/icons?i=js,html,css,java,nodejs,php,c,mysql)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=js,html,css,java,nodejs,php,c,mysql)]([https://skillicons.dev](https://skillicons.dev/icons?i=js,html,css,java,nodejs,php,c,mysql))
 ### Other:
-[![Other](https://skillicons.dev/icons?i=linux,codepen,git,github,heroku,emacs,latex,regex,svg)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=linux,codepen,git,github,heroku,emacs,latex,regex,svg)]([https://skillicons.dev](https://skillicons.dev/icons?i=linux,codepen,git,github,heroku,emacs,latex,regex,svg))
 
 ---
 ### GitHub Stats:
