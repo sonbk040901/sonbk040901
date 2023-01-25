@@ -25,13 +25,13 @@
 ---
 ### How to reach me:
 <div align="center">    
-  <a href="https://fb.me/bk04092001" target="blank">
+  <a href="https://fb.me/bk04092001" target="_blank">
     <img height="64" width="64" src="https://media.giphy.com/media/xpUtJjsEFZk7EcwPLs/giphy.gif" alt="sonbk040901-facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UCL8HXTHfAvq7q08xMXBiKRA" target="blacnk">
+  <a href="https://www.youtube.com/channel/UCL8HXTHfAvq7q08xMXBiKRA" target="_blank">
     <img height="64" width="64" src="https://media.giphy.com/media/fVtghR89I5E9ZAHSsZ/giphy.gif" alt="sonbk040901-youtube" />
   </a>
-  <a href="https://instagram.com/son_le.4901" target="blank">
+  <a href="https://instagram.com/son_le.4901" target="_blank">
     <img height="64" width="64" src="https://media.giphy.com/media/jqVUX17Ze8mw0nXBbJ/giphy.gif" alt="sonbk040901-instagram" />
   </a>
   <a href="mailto:leducson007@gmail.com" target="top">
