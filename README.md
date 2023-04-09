@@ -5,7 +5,7 @@
 ### Tools:
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,eclipse,docker)]([https://skillicons.dev](https://skillicons.dev/icons?i=vscode,idea,eclipse,docker))
 ### Language:
-[![Language](https://skillicons.dev/icons?i=html,sass,css,js,react,nodejs,java,php,c,mysql,mongodb)]([https://skillicons.dev](https://skillicons.dev/icons?i=html,sass,css,js,react,nodejs,java,php,c,mysql,mongodb))
+[![Language](https://skillicons.dev/icons?i=html,sass,css,js,ts,react,nodejs,java,php,c,mysql,mongodb)]([https://skillicons.dev](https://skillicons.dev/icons?i=html,sass,css,js,ts,react,nodejs,java,php,c,mysql,mongodb))
 ### Other:
 [![Other](https://skillicons.dev/icons?i=linux,codepen,git,postman,github,heroku,emacs,latex,regex,svg)]([https://skillicons.dev](https://skillicons.dev/icons?i=linux,codepen,git,postman,github,heroku,emacs,latex,regex,svg))
 
